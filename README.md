@@ -33,14 +33,14 @@ ASCII dividers and styling to improve the game's presentation.
 
 
 
-How to Run the Game
-Compile & Run (Windows - Clang)
-bash
-Copy
-Edit
-clang++ -o veilbound.exe orivanevirelle.cpp -Xlinker /LIBPATH:"C:\Path\To\Libraries"
-veilbound.exe
+How to Run the Game: 
+Compile & Run (Windows - Clang) - 
+bash - 
+Copy - 
+Edit - 
+clang++ -o veilbound.exe orivanevirelle.cpp -Xlinker /LIBPATH:"C:\Path\To\Libraries" - 
+veilbound.exe - 
 
 
-GitHub Repository Link
+GitHub Repository Link  -    
 🔗 Veilbound: A Shrouded Path
