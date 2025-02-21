@@ -1,4 +1,4 @@
-Veilbound: A Shrouded Path
+##Veilbound: A Shrouded Path
 
 Game Overview: 
 "Veilbound: A Shrouded Path" is an interactive text-based adventure game with decision-based storytelling. The game follows Orivane, a lost soul in a mystical forest, unraveling secrets of his past while making choices that shape his destiny. He is guided by what appear to be whispering winds only for the winds to be revealed as an enigmatic fairy, Virelle.
