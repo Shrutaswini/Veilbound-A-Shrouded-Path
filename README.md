@@ -41,7 +41,7 @@ You play as **Orivane**, a lost soul in a mystical forest, guided by the **whisp
 ```bash
 clang++ -o veilbound.exe orivanevirelle.cpp -Xlinker /LIBPATH:"C:\Path\To\Libraries"
 veilbound.exe
-### 🔗 GitHub Repository
-🔗 Veilbound: A Shrouded Path
+---
+
 
 
